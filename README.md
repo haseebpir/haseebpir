@@ -5,11 +5,15 @@
 
 ### 🚀 About Me
 
-Senior UI/UX Designer with **10+ years of experience** designing intuitive, scalable, and high-performing digital products for startups and enterprises.
+Senior UI/UX Designer and Product Designer with **10+ years of experience** creating intuitive, scalable, and visually engaging digital products for startups, enterprises, and growing businesses.
 
-I specialize in **UI/UX Design, Figma, Product Design, Mobile App Design, and Cross-Platform App Development**, helping businesses transform ideas into modern, user-centric mobile and web applications.
+I specialize in **UI/UX Design, Product Strategy, Mobile App Design, and Cross-Platform Development**, helping transform ideas into seamless mobile and web experiences that users love.
 
-I take ownership of the entire product design process — from **user research and wireframing to interactive prototypes, design systems, and developer handoff** — ensuring every product is visually appealing, easy to use, and built for growth.
+Over the years, I've helped launch **100+ successful products** across SaaS, AI platforms, iOS & Android applications, and web solutions, with products reaching **2M+ end users** worldwide.
+
+From **user research and wireframing** to **high-fidelity Figma prototypes, scalable design systems, and production-ready implementation**, I manage the entire product design lifecycle while ensuring smooth collaboration between design and development teams.
+
+My goal is simple: **build beautiful, user-centered products that solve real problems, scale with business growth, and deliver exceptional user experiences.**
 
 ---
 
