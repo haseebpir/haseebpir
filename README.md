@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb P.</h1>
-<h3 align="center">Senior UI/UX Designer | Product Designer | Mobile App Design Expert</h3>
+<h3 align="center">Mobile App Developer | iOS & Android | UI/UX Designer | Flutter, React</h3>
 
 ---
 
