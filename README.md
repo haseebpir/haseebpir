@@ -5,15 +5,26 @@
 
 ### 🚀 About Me
 
-Senior UI/UX Designer and Product Designer with **10+ years of experience** creating intuitive, scalable, and visually engaging digital products for startups, enterprises, and growing businesses.
+Have an innovative app idea, design prototype, or web platform ready to bring to life?
 
-I specialize in **UI/UX Design, Product Strategy, Mobile App Design, and Cross-Platform Development**, helping transform ideas into seamless mobile and web experiences that users love.
+I help founders and businesses turn complex ideas into seamless, scalable digital products—without wasting time or money on poor execution.
 
-Over the years, I've helped launch **100+ successful products** across SaaS, AI platforms, iOS & Android applications, and web solutions, with products reaching **2M+ end users** worldwide.
+**Why Work With Me?**
 
-From **user research and wireframing** to **high-fidelity Figma prototypes, scalable design systems, and production-ready implementation**, I manage the entire product design lifecycle while ensuring smooth collaboration between design and development teams.
+- **10+ Years Experience** leading UI/UX design & product development
+- **2M+ Users** interacting with mobile/web apps I’ve designed & built
+- **End-to-End Delivery:** From initial wireframes & Figma design systems to high-fidelity prototypes and cross-platform mobile app development (iOS & Android)
 
-My goal is simple: **build beautiful, user-centered products that solve real problems, scale with business growth, and deliver exceptional user experiences.**
+**Core Services:**
+
+- **Mobile & Web UI/UX:** User flows, interactive Figma prototypes, & UX audits
+- **Design Systems:** Advanced Figma components, variables, tokens, & dev handoff
+- **App Development:** Cross-platform mobile development built for speed & performance
+- **Product Strategy:** MVP scoping, design-to-code workflows, & app roadmap
+
+**Tech & Tools:** Figma, Adobe CS, Flutter, React Native, Design Systems.
+
+If you're ready to build a product your users will love, drop me a message and let’s talk!
 
 ---
 
