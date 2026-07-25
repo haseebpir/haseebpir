@@ -26,6 +26,8 @@ I help founders and businesses turn complex ideas into seamless, scalable digita
 
 If you're ready to build a product your users will love, drop me a message and let’s talk!
 
+📧 **Email:** upw0058@gmail.com
+
 ---
 
 ### 💡 What I Do
